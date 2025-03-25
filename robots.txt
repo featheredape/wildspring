@@ -1,14 +1,4 @@
-User-agent: Googlebot
+User-agent: *
 Disallow: /
-
-User-agent: Open-AI-GPT
-Disallow: /
-
-User-agent: *AI*
-Disallow: / 
-
-User-agent: Bingbot
-Disallow: /
-
-User-agent: Slurp
-Disallow: /
+Disallow: /cgi-bin/
+Sitemap: wildspring.ca
